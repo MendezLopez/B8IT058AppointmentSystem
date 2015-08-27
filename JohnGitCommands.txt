@@ -1,0 +1,235 @@
+    1  javac -version
+    2  java -version
+    3  gcc --version
+    4  java - version
+    5  ls
+    6  man httpd
+    7  sudo apachectl start
+    8  ls
+    9  ls -all
+   10  top
+   11  man ls
+   12  ssh 10267291@ICTLinux2015.cloudapp.net
+   13  ls
+   14  clear
+   15  ls
+   16  pwd
+   17  httpd -k
+   18  cd/
+   19  cd /etc/apache2
+   20  ls
+   21  type httpd.cong
+   22  type httpd.conf
+   23  ls -all
+   24  head httpd.conf
+   25  sudo edit httpd.conf
+   26  sudo textedit httpd.conf
+   27  sudo open -t /etc/apache2/httpd.conf
+   28  ls
+   29  cd csharp
+   30  ls
+   31  mcs HelloWorld.cs
+   32  mcs HelloWorld.cs
+   33  ls
+   34  mono HelloWorld.exe
+   35  mcs HelloWorld.cs
+   36  mono HelloWorld.exe
+   37  mcs HelloWorld.cs
+   38  pwd
+   39  ls
+   40  ls -all
+   41  mcs HelloWorld.cs
+   42  mcs Rectangle.cs
+   43  mcs Circle.cs
+   44  mcs Circle.cs
+   45  mcs Rectangle.cs
+   46  ifconfig
+   47  ifconfig
+   48  ping 10.69.30.171
+   49  ssh 10267291@ICTLinux2015.cloudapp.net
+   50  vi
+   51  pwd
+   52  ls -all
+   53  finger
+   54  top
+   55  clear
+   56  ls -all
+   57  top
+   58  ls -all
+   59  exit
+   60  exit
+   61  top
+   62  finger
+   63  ssh ICTLinux2015.cloudapp.net
+   64  ssh 10267291@ICTLinux2015.cloudapp.net
+   65  exit
+   66  ssh 10267291@ICTLinux.cloudapp.net
+   67  ssh 10267291@ICTLinux2015.cloudapp.net
+   68  shell
+   69  sh
+   70  pwd
+   71  ls -l
+   72  ifconfig
+   73  ifconfig
+   74  clear
+   75  ifconfig
+   76  ifconfig
+   77  clear
+   78  clear
+   79  ifconfig
+   80  ssh 10267291@ICTLinux2015.cloudapp.net
+   81  ps
+   82  mypid
+   83  pid
+   84  man cat
+   85  man grep
+   86  man pid
+   87  pid
+   88  file
+   89  man file
+   90  sh
+   91  ls -l
+   92  tty
+   93  pwd
+   94  man cd
+   95  man umask
+   96  builtin
+   97  man builtin
+   98  ps
+   99  top
+  100  cd /
+  101  cd bin
+  102  cd bash
+  103  ls
+  104  cd bashg
+  105  cd bash
+  106  sh --help
+  107  sh --help more
+  108  sh --version
+  109  ls
+  110  man sleep
+  111  man link
+  112  hostname
+  113  man stty
+  114  man ed
+  115  ls
+  116  df
+  117  top
+  118  ls
+  119  whoami
+  120  man rcp
+  121  man wget
+  122  man bg
+  123  ifconfig
+  124  javac --version
+  125  javac -version
+  126  pwd
+  127  cd
+  128  pwd
+  129  ls
+  130  javac PageCounter
+  131  javac PageCounter
+  132  javac PageCounter.java
+  133  vic PageCounter.java
+  134  vi PageCounter.java
+  135  javac PageCounter.java
+  136  vi PageCounter.java
+  137  javac PageCounter.java
+  138  vi PageCounter.java
+  139  javac PageCounter.java
+  140  javac PageCounter.java
+  141  head PageCounter.java
+  142  head PageCounter.java
+  143  javac PageCounter.java
+  144  head PageCounter.java
+  145  javac PageCounter.java
+  146  javac PageCounter.java
+  147  javac PageCounter.java
+  148  javac PageCounter.java
+  149  cls
+  150  clrscr
+  151  clear
+  152  javac PageCounter.java
+  153  clear
+  154  javac PageCounter.java
+  155  java PageCounter.java
+  156  javac PageCounter.java
+  157  java PageCounter.java
+  158  javac GradeBook.java
+  159  javac GradeBookTest.java
+  160  javac Addition.java
+  161  javac Comparison.java
+  162  javac Welcome.java
+  163  javac Welcome4.java
+  164  java Welcome4
+  165  java -version
+  166  java Additino
+  167  java Addition
+  168  java Addition.class
+  169  ls
+  170  ls *.class
+  171  java Comparison
+  172  java PageCounter
+  173  javac PageCounter.java
+  174  javac PageCounter.java
+  175  java PageCounter
+  176  javac PageCounter.java
+  177  java PageCounter
+  178  javac PageCounter.java
+  179  javac PageCounter.java
+  180  javac PageCounter.java
+  181  javac PageCounter.java
+  182  java PageCounter
+  183  javac PageCounter.java
+  184  java PageCounter
+  185  javac PageCounter.java
+  186  java PageCounter
+  187  javac PageCounter.java
+  188  java PageCounter
+  189  javac PageCounter.java
+  190  java PageCounter
+  191  javac PageCounter.java
+  192  java PageCounter
+  193  javac PageCounter.java
+  194  java PageCounter
+  195  javac PageCounter.java
+  196  java PageCounter
+  197  javac PageCounter.java
+  198  java PageCounter
+  199  javac PageCounter.java
+  200  java PageCounter
+  201  javac PageCounter.java
+  202  javac PageCounter.java
+  203  clear
+  204  javac PageCounter.java
+  205  java PageCounter
+  206  clear
+  207  javac PageCounter.java
+  208  java PageCounter
+  209  javac PageCounter.java
+  210  java PageCounter
+  211  clear
+  212  javac PageCounter.java
+  213  java PageCounter
+  214  ls
+  215  mkdir tmpgit
+  216  cd tmpgit
+  217  git clone https://github.com/mendezlopez/b8it058appointmentsystem.git appts
+  218  cd appts
+  219  ls
+  220  touch demo.txt
+  221  nano demo.txt
+  222  git add .
+  223  git commit -a -m"added new file"
+  224  git push
+  225  nano .gitignore
+  226  git add .gitignore
+  227  git commit -a -m"added ignore"
+  228  git push
+  229  nano wingtiptutorial.txt
+  230  nano wingtiptutorial.txt
+  231  git add . 
+  232  git commit -a -m"tutorial link"
+  233  git push
+  234  history
+  235  history >> JohnGitCommands.txt
